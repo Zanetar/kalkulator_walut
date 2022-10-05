@@ -69,4 +69,4 @@ def menu():
     except: print('Wybrałeś zły znak! Do widzenia!')
 
 
-menu()
+menu() #wywołanie programu
